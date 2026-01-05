@@ -1,0 +1,22 @@
+[2026-01-04 16:06:02] 操作人：user | 类型：folder | 位置：中间 | 插入索引：5 | 原路径：C:\Users\user\Desktop\指定txt - 副本 | 新路径：C:\Users\user\Desktop\指定txt1234567 - 副本
+[2026-01-04 16:11:23] 操作人：user | 类型：file | 位置：开头 | 插入索引：无 | 原路径：C:\Users\user\Desktop\test_rename\1.txt | 新路径：C:\Users\user\Desktop\test_rename\开头测试_1.txt
+[2026-01-04 16:11:23] 操作人：user | 类型：file | 位置：开头 | 插入索引：无 | 原路径：C:\Users\user\Desktop\test_rename\5.txt | 新路径：C:\Users\user\Desktop\test_rename\开头测试_5.txt
+[2026-01-04 16:11:23] 操作人：user | 类型：file | 位置：开头 | 插入索引：无 | 原路径：C:\Users\user\Desktop\test_rename\6.txt | 新路径：C:\Users\user\Desktop\test_rename\开头测试_6.txt
+[2026-01-04 16:11:23] 操作人：user | 类型：file | 位置：开头 | 插入索引：无 | 原路径：C:\Users\user\Desktop\test_rename\7.txt | 新路径：C:\Users\user\Desktop\test_rename\开头测试_7.txt
+[2026-01-04 16:11:23] 操作人：user | 类型：file | 位置：开头 | 插入索引：无 | 原路径：C:\Users\user\Desktop\test_rename\3.txt | 新路径：C:\Users\user\Desktop\test_rename\开头测试_3.txt
+[2026-01-04 16:11:23] 操作人：user | 类型：file | 位置：开头 | 插入索引：无 | 原路径：C:\Users\user\Desktop\test_rename\4.txt | 新路径：C:\Users\user\Desktop\test_rename\开头测试_4.txt
+[2026-01-04 16:11:23] 操作人：user | 类型：file | 位置：开头 | 插入索引：无 | 原路径：C:\Users\user\Desktop\test_rename\2.txt | 新路径：C:\Users\user\Desktop\test_rename\开头测试_2.txt
+[2026-01-04 16:12:55] 操作人：user | 类型：file | 位置：末尾 | 插入索引：无 | 原路径：C:\Users\user\Desktop\test_rename\开头测试_4.txt | 新路径：C:\Users\user\Desktop\test_rename\开头测试_4_末尾测试.txt
+[2026-01-04 16:12:55] 操作人：user | 类型：file | 位置：末尾 | 插入索引：无 | 原路径：C:\Users\user\Desktop\test_rename\开头测试_2.txt | 新路径：C:\Users\user\Desktop\test_rename\开头测试_2_末尾测试.txt
+[2026-01-04 16:12:55] 操作人：user | 类型：file | 位置：末尾 | 插入索引：无 | 原路径：C:\Users\user\Desktop\test_rename\开头测试_7.txt | 新路径：C:\Users\user\Desktop\test_rename\开头测试_7_末尾测试.txt
+[2026-01-04 16:12:55] 操作人：user | 类型：file | 位置：末尾 | 插入索引：无 | 原路径：C:\Users\user\Desktop\test_rename\开头测试_6.txt | 新路径：C:\Users\user\Desktop\test_rename\开头测试_6_末尾测试.txt
+[2026-01-04 16:12:55] 操作人：user | 类型：file | 位置：末尾 | 插入索引：无 | 原路径：C:\Users\user\Desktop\test_rename\开头测试_5.txt | 新路径：C:\Users\user\Desktop\test_rename\开头测试_5_末尾测试.txt
+[2026-01-04 16:12:55] 操作人：user | 类型：file | 位置：末尾 | 插入索引：无 | 原路径：C:\Users\user\Desktop\test_rename\开头测试_1.txt | 新路径：C:\Users\user\Desktop\test_rename\开头测试_1_末尾测试.txt
+[2026-01-04 16:12:55] 操作人：user | 类型：file | 位置：末尾 | 插入索引：无 | 原路径：C:\Users\user\Desktop\test_rename\开头测试_3.txt | 新路径：C:\Users\user\Desktop\test_rename\开头测试_3_末尾测试.txt
+[2026-01-04 16:13:41] 操作人：user | 类型：file | 位置：中间 | 插入索引：5 | 原路径：C:\Users\user\Desktop\test_rename\开头测试_2_末尾测试.txt | 新路径：C:\Users\user\Desktop\test_rename\开头测试__中间_测试_2_末尾测试.txt
+[2026-01-04 16:13:41] 操作人：user | 类型：file | 位置：中间 | 插入索引：5 | 原路径：C:\Users\user\Desktop\test_rename\开头测试_3_末尾测试.txt | 新路径：C:\Users\user\Desktop\test_rename\开头测试__中间_测试_3_末尾测试.txt
+[2026-01-04 16:13:41] 操作人：user | 类型：file | 位置：中间 | 插入索引：5 | 原路径：C:\Users\user\Desktop\test_rename\开头测试_7_末尾测试.txt | 新路径：C:\Users\user\Desktop\test_rename\开头测试__中间_测试_7_末尾测试.txt
+[2026-01-04 16:13:41] 操作人：user | 类型：file | 位置：中间 | 插入索引：5 | 原路径：C:\Users\user\Desktop\test_rename\开头测试_5_末尾测试.txt | 新路径：C:\Users\user\Desktop\test_rename\开头测试__中间_测试_5_末尾测试.txt
+[2026-01-04 16:13:41] 操作人：user | 类型：file | 位置：中间 | 插入索引：5 | 原路径：C:\Users\user\Desktop\test_rename\开头测试_6_末尾测试.txt | 新路径：C:\Users\user\Desktop\test_rename\开头测试__中间_测试_6_末尾测试.txt
+[2026-01-04 16:13:41] 操作人：user | 类型：file | 位置：中间 | 插入索引：5 | 原路径：C:\Users\user\Desktop\test_rename\开头测试_1_末尾测试.txt | 新路径：C:\Users\user\Desktop\test_rename\开头测试__中间_测试_1_末尾测试.txt
+[2026-01-04 16:13:41] 操作人：user | 类型：file | 位置：中间 | 插入索引：5 | 原路径：C:\Users\user\Desktop\test_rename\开头测试_4_末尾测试.txt | 新路径：C:\Users\user\Desktop\test_rename\开头测试__中间_测试_4_末尾测试.txt
