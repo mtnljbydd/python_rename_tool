@@ -362,4 +362,6 @@ def generate\_new\_name(target: Dict, position: str, custom\_content: str, inser
 
 如果使用过程中遇到问题，或有新的功能需求，欢迎在评论区留言交流！
 
-> （注：文档部分内容可能由 AI 生成）
+> 抖音：从 0 至 1
+> 微信公众号：从 0 至 1
+> 博客网站：www.from0to1.cn
